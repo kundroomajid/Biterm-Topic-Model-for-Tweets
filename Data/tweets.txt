@@ -1,0 +1,100 @@
+@Bill_Porter nice to know that your site is back :-)
+@sudhamshu after trying out various tools to take notes and I found that paper is the best to take notes and to maintain todo lists.
+@neetashankar Yeah, I got the connection. I am getting 20 mbps for a 15 mbps connection. Customer service is also good.
+@Bill_Porter All posts from your website http://t.co/NUWn5HUFsK seems to have been deleted. I am getting a "Not Found" page even in homepage
+Today is "bring your kids" day at office and the entire office is taken over by cute little creatures ;)
+Creating new pages in #WordPress automatically through code http://t.co/bkTX2m8104
+@realsubbuj there is a decent rain in koramangala.
+Finally, some relief from Bangalore super hot summer. Hope the rain reduced the soaring temperature.
+@ICICIBank_Care hope you guys fix it. It is really very irritating.
+@jaskirat ...or reading an old blog post that you wrote, if you are a blogger ;-)
+RT @sudhamshu: Billed as Comet of the century, Comet C/2012 S1(ISON) is on its way to light up our night skies (later in November this y ...
+@sudhamshu ..and we should also be prepared to view some stupid news channel doing an exclusive whether world is going to end or not
+@sudhamshu Wow!! time to invest on a better telescope and camera.
+@sudhamshu Will it be visible from Indian skies?
+@hussainweb yeah, even when the underground sea cables are cut. So far so good :-)
+Just got the connection from ACT Broadband. I am getting around 19 mbps for a 15 mbps connection. So far so good :) http://t.co/4MM1TTmqxF
+RT @Cmdr_Hadfield: A Brazilian river, perpetually kissing the Atlantic. http://t.co/5Z9PPFRSs5
+What is the process to report email spam (offers emails)? @ICICIBank_Care is sending me lot of spam without an option to unsubscribe
+@ICICIBank_Care Also in your spam (offers) emails, there is no link to unsubscribe. Also I didn't subscribe to it in the first place.
+@ICICIBank_Care I have already done that! thrice!!, but you keep sending me spam. Just today I got more than 2 spam (offers) mails from you
+@surajram Look around and observe the people around you. You can find people with different emotions around.
+Count the number of empty lines in a file using grep http://t.co/Zal6uqmJqS #grep #one-liner #command-line (cc @climagic)
+FYI, @ICICIBank_Care I have given my email so that you can send me my statement. But you are spamming me, without any option to unsubscribe
+@realsubbuj @aswinanand I have not used #ingress
+@subbuj I write my blog article in markdown from Vim and then publish it in my site running WordPress using Vimpress http://t.co/Sljq7CU4Pf
+Passing command-line arguments to #Pig scripts http://t.co/YdL3mDqbJy
+@realsubbuj I have no issues if the subject line contains only text. If it contains a link then it becomes very difficult to open it.
+I hate it when someone sends me an url in the subject of the email while keeping the body empty.
+RT @jackerhack: We're hosting a workshop on data processing with Pig this April. @sudarmuthu is facilitating. http://t.co/OgvQEsdH5c
+RT @hardwarefun: A guide to choosing correct accessories for @raspberry_pi with lot of options to source locally if needed http://t.co/x ...
+@PervyTeen Sure. Will let you know after I get my connection.
+@v1pl @ckailash @realsubbuj @PVRTweets Thanks for the details. I have applied for ACT broadband. Keeping my fingers crossed ;)
+RT @UberFacts: India celebrates Children’s Day on November 14th, 9 months after Valentine’s Day.
+@realsubbuj I am not sure if it is available in my area though...
+@ckailash Yeah, he already told me about it. Any idea how much is the discount?
+@ckailash Wow! that's good to know. Hopefully it will end all my broadband issues. Also, the service guy was very professional.
+@varunkumar That's good to know.
+@galuano1 Yeah I have a port right across my home and the service guy said he can give me connection.
+As anyone used ACT broadband in Bangalore? They are promising 15 and 25 mbps. Not sure whether I can trust them.
+Remove duplicate lines based on a field using #awk http://t.co/HOVoCR3qxP #command-line
+@tryprasannan Open source is the right way to go. But how to convince the guys responsible for making the decision?
+RT @AtulChitnis: RIP famous Bangalore weather. It was nice knowing you. But now you are being replaced by an Airconditioner :(
+@tryprasannan That's a good point. Hopefully the people who set up these rules think about it.
+@prashanth What feature is that?
+Govt of India has come up with a Mobile application contest. Details at http://t.co/xdhBotUv5H
+RT @Cmdr_Hadfield: Tonight's Finale: Our Moon, forever to be graced by the footprints of twelve brave men. http://t.co/u59Tl4ggq6
+Someone had forked my wedding invitation http://t.co/R6oIEFJLJB at @github https://t.co/U6lRscygZs Cool :)
+There is an extremely long queue for immigration today at Bangalore airport. It is so long that there is no place to stand as well.
+Just landed in Bangalore. In a couple of hours will be sleeping in the comfort of my bed :-)
+At Dubai airport. Will be reaching Bangalore in another four hours.
+RT @thepartycow: Wow. The heads of all major religions (iOS, Android, Windows, and the Catholic Church) have been replaced in a 6 month  ...
+Daylight time change will happen in a couple of hours. This is the first time for me to experience it and hopefully I don't get confused ;)
+Planning to go to Yosemite Park tomorrow. Hopefully the whether stays the same way.
+@UberFacts In many countries (like Bhutan) they calculate their age by adding this 9 months.
+Weather was very good. Drove up till big sur and went for a hike.
+@balajijegan Will come over to your cube later today or Monday :) You are in building B right?
+The weather is really nice today in Sunnyvale. Warm and sunny.
+Help needed: If you have access to an Ubuntu box right now can you kindly check if this script works http://t.co/H2gsTmxESs? Thanks.
+RT @marissamayer: Excited to see the grand lighting of the Bay Lights in San Francisco!  So beautiful! http://t.co/nCk3hvpkDX
+Question: Do we have to disable DND completely to receive sms from Google Voice in India? Does enabling a particular category help?
+Reached Sunnyvale and checked into hotel. Really trying hard not to sleep now to reduce the effect of jetlag. Let's see if I succeed or not
+Another 2 hours to kill before my flight. Good that I bought my kindle.
+Quick update: Will be out for the next two weeks. Visiting US on a business trip.  http://t.co/zaXSiM52BC Expect delay in email reply.
+RT @AtulChitnis: As I have said before: I like @marissamayer's move to shake up Yahoo a bit, get people out of their comfort zone. Yahoo ...
+RT @hardwarefun: Why you have to connect a 220 Ohm resistor with LED while trying out the LED blink sketch in @arduino http://t.co/lze5i ...
+RT @AtulChitnis: Wow. "Ankit Fadia Revealed" http://t.co/CBbrkjmZN0
+Email from @Airtel_Presence "Your mobile Internet usage as on 25-Feb-2013 is Mb which is % ..." They forgot to replace values in template ;)
+I moved my #WordPress Plugins to @github and I received more contributions in the last 2 weeks than in last 5 years http://t.co/YKRudEed
+I am getting the unicorn on @github a lot in the last two days. Reminds me of @twitter 's fail whale
+RT @sudhamshu: An interactive map of all the recorded meteorite landing places on Earth. http://t.co/OM2EDjAL
+@sudhamshu good one. :-)
+One liner to parse Apache error log and list down all missing images http://t.co/rRcAgpV6
+@msnarain @TakkarMachi @Fluid_Head Also a nice addition would be photography + uploading a couple of them to social network sites.
+I learned a valuable lesson today. Make sure you enable binary logs in MySQL http://t.co/JMSsawr6
+@gauravl ha ha. You have a strong memory. If your GovWiki app is available now anywhere, I would definitely use it :)
+@BabaSherlock I am still on 2.3.7 since HTC Hero doesn't support cynogenmod with Jelly Bean.
+Finally after two months I renewed my passport. I documented the entire process, so that it is useful for others http://t.co/jiofjNPt
+@BabaSherlock Okay just updated. Didn't choose to wipe data and cache. Rom got updated after reboot and my data and apps are still there.
+@BabaSherlock Thanks. Also read that it is better to do a backup using Titanium Backup. Doing that as well before updating.
+@BabaSherlock Yes I have @CyanogenMod installed. Rom manager just told me that there is an update and has downloaded it. Phone HTC Hero
+@BabaSherlock So if I backup and then update @CyanogenMod Is it possible to restore only apps and data? How to do it?
+Question: If I update my @CyanogenMod ROM, using ROM Manager will it wipe my data and apps or they will be retrained? #android
+An interesting fact about my observation of people closing their Facebook account. 90 % of them are girls and they have multiple accounts.
+@realsubbuj yeah and I noticed lot are actually closing their Facebook account these days.
+@sudhamshu well actually even I agree with you. The starting was good, but ended up pretty abruptly.
+Out of ~300 friends that I have in Facebook, I just found that ~15 have closed their accounts. Is this starting of a trend?
+These days @Airtel_Presence is adding a person's name at the end of their replies. Nice move. It gives a personal touch.
+@mayurpipaliya ha ha. Guilty as charged ;) Hope you enjoy them :)
+Every few months @Airtel_Presence randomly activates some service for me. Now they started sending me some crap as MMS from 58685.
+Just closed two browser windows full of tabs containing articles that I wanted to read, and pretended as if nothing happened #tab #inboxzero
+I hate websites which automatically expire your password after x days. They are making the service more insecure.
+Suddenly after moving from 20-something to 30-something over the weekend, I  feel more mature, or is it just my mind playing games again ;)
+@vinuthomas thanks for the wishes :-)
+Just the first fight sequence is worth all the effort to see the movie. #vishvaroobam
+Watching vishvaroobam. Perfect way to celebrate birthday.
+@InfinityO_O Can you give me more details about the corpus. I followed your link, but it is asking for a login.
+RT @mbanzi: save 50% on select Arduino ebooks and videos from http://t.co/zUDOilft use code WKARD
+@asanjum Keep us updated, if you receive any reply to it.
+@asanjum even I noticed it last time when I renewed my passport. This is outright bad and need to stop.
+@raghunathj you won't get an Arduino shield, but you will get GSM boards with serial interface in sp road
