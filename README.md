@@ -1,12 +1,14 @@
 # Biterm-Topic-Model-for-Tweets
-Implementation of Biterm Topic Model for short texts like tweets
- The origin BTM is in here: https://github.com/xiaohuiyan/BTM
+Implementation of Biterm Topic Model for short texts like tweets.
+
+The origin BTM is in here: https://github.com/xiaohuiyan/BTM
 
 Steps:
 1. First we need to preprocess Tweets for this use PreprocessTweets.py 
-   script to preprocess tweets and for stopword removal
-2. Go to BTM-Java folder and run the java code as
-   java BTM [data_path] [topic_num] [alpha] [beta] [iter_num] [instance_num]```
+   script to preprocess tweets and for stopwords removal
+2. Go to BTM-Java folder and run the java code as: 
+
+  java BTM [data_path] [topic_num] [alpha] [beta] [iter_num] [instance_num]```
 
    * `[data_path]    string, path of training docs`
    * `[topic_num]    int, number of topics`
