@@ -19,7 +19,8 @@ Steps:
 
    Examples
     ========
-   ```java BTM sample-data.txt 100 0.1 0.01 2000 1```
+    
+   java BTM sample-data.txt 100 0.1 0.01 2000 1
 
    After iterations are completed out put can be seen as
  
@@ -31,6 +32,5 @@ Steps:
    * `'model-final.wordmap'  word dictionary`
 
 
-
-3. model-final.wordmap file which contains word frequency matrix can be 
-   used to generate WordClouds using WordCloud.py script.
+3. model-final.wordmap file which contains word frequency matrix and 
+   can be used to generate WordClouds using WordCloud.py script.
